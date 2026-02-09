@@ -1,0 +1,7 @@
+C:\Users\fuad.yusuf\source\repos\nummer sortering\nummer sortering\bin\Debug\nummer sortering.exe.config
+C:\Users\fuad.yusuf\source\repos\nummer sortering\nummer sortering\bin\Debug\nummer sortering.exe
+C:\Users\fuad.yusuf\source\repos\nummer sortering\nummer sortering\bin\Debug\nummer sortering.pdb
+C:\Users\fuad.yusuf\source\repos\nummer sortering\nummer sortering\obj\Debug\nummer sortering.csproj.AssemblyReference.cache
+C:\Users\fuad.yusuf\source\repos\nummer sortering\nummer sortering\obj\Debug\nummer sortering.csproj.CoreCompileInputs.cache
+C:\Users\fuad.yusuf\source\repos\nummer sortering\nummer sortering\obj\Debug\nummer sortering.exe
+C:\Users\fuad.yusuf\source\repos\nummer sortering\nummer sortering\obj\Debug\nummer sortering.pdb

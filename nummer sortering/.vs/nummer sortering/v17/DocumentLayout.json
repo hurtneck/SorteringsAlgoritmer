@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fuad.yusuf\\source\\repos\\nummer sortering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{105ECF91-4C84-4985-A59B-9D5EEA2ED407}|nummer sortering\\nummer sortering.csproj|c:\\users\\fuad.yusuf\\source\\repos\\nummer sortering\\nummer sortering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105ECF91-4C84-4985-A59B-9D5EEA2ED407}|nummer sortering\\nummer sortering.csproj|solutionrelative:nummer sortering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fuad.yusuf\\source\\repos\\nummer sortering\\nummer sortering\\Program.cs",
+              "RelativeDocumentMoniker": "nummer sortering\\Program.cs",
+              "ToolTip": "C:\\Users\\fuad.yusuf\\source\\repos\\nummer sortering\\nummer sortering\\Program.cs",
+              "RelativeToolTip": "nummer sortering\\Program.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAIwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:40:58.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
